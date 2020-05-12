@@ -24,6 +24,8 @@ Folder - XGB-TFIDF  : Performance comparision of XGBoost classifier using TF-IDF
                                              
 DataPreprocessing_EDA.ipynb  :  Preprocessing of fake_real_data.csv, Analysis of columns, types of data present in columns, diversity of data, finding patterns in data using exploratory data analysis, identifying null values, removal of null values, Pearson's correlation on non null data, Pearson's Chi Square test on non null data
 
+Random_Forest_Classifier.ipynb : Implemenation of the Random forest classifier model on the non descriptive attributes to classify the postings with testing accuracy of 96%.
+
 XGBoostV2.ipynb  : Comparision of performance of XGBoost classification on non descriptive, non - null data with atmost 10%, 20% or 30% null valued attributes
 
 XGBoostV3.ipynb  :  Comparision of performace of XGBoost classification on descriptive, non - null data with TF-IDF piepline and Gensim NLP package on company_profile and job description attributes
