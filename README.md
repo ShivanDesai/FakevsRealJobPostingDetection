@@ -29,3 +29,7 @@ Random_Forest_Classifier.ipynb : Implementation of the Random forest classifier 
 XGBoostV2.ipynb  : Comparison of performance of XGBoost classification on non descriptive, non - null data with atmost 10%, 20% or 30% null valued attributes
 
 XGBoostV3.ipynb  :  Comparison of performance of XGBoost classification on descriptive, non - null data with TF-IDF pipeline and Gensim NLP package on company_profile and job description attributes
+
+Fake_job_posting_Jasmine_NLP_v2.ipynb : Data-preprocessing, Data-visualisation, Data-cleaning, Counter Vectorizer Model classification. 
+
+Fake_job_posting_Jasmine_NLP_v3.ipynb : Data-preprocessing, Data-visualisation, Data-cleaning, Counter Vectorizer and BERT Model classification with efficinecy of 71.8% for BERT and 86.0% for count vectorizer model. 
