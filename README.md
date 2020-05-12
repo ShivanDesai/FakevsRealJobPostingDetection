@@ -5,7 +5,7 @@
 By
 Rutuja Hasurkar (014547793)
 Sudarshan Aithal (013638703)
-Shivan Desia (010279646)
+Shivan Desai (010279646)
 Jasmine Akkal (013773825)
 
 
